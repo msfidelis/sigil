@@ -2,7 +2,7 @@ release:
   prerelease: false
 
 builds:
-  - binary: kubedump
+  - binary: sigil
     env:
       - CGO_ENABLED=0
     goos:
@@ -18,6 +18,6 @@ archives:
 # brews:
 #   - github:
 #       owner: msfidelis
-#       name: homebrew-kubedump
+#       name: homebrew-sigil
 #     homepage: "https://github.com/msfidelis/sigil/"
 #     description: "The Command Line of Doors - Just an "lsof" wrapper for lazy people "

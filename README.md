@@ -12,6 +12,61 @@
 
 > Sigil only works on Linux and MacOS. 
 
+## MacOS amd64
+
+```bash
+wget https://github.com/msfidelis/sigil/releases/download/v0.0.2/sigil_0.0.2_darwin_arm64 -O sigil 
+mv sigil /usr/local/bin 
+chmod +x /usr/local/bin/sigil
+```
+
+
+## MacOS arm64
+
+```bash
+wget https://github.com/msfidelis/sigil/releases/download/v0.0.2/sigil_0.0.2_darwin_amd64 -O sigil 
+mv sigil /usr/local/bin 
+chmod +x /usr/local/bin/sigil
+```
+
+## Linux amd64 
+
+```bash
+wget https://github.com/msfidelis/sigil/releases/download/v0.0.2/sigil_0.0.2_linux_amd64 -O sigil 
+mv sigil /usr/local/bin 
+chmod +x /usr/local/bin/sigil
+```
+
+## Linux arm64 
+
+```bash
+wget https://github.com/msfidelis/sigil/releases/download/v0.0.2/sigil_0.0.2_linux_arm64 -O sigil 
+mv sigil /usr/local/bin 
+chmod +x /usr/local/bin/sigil
+```
+
+## Freebsd amd64 
+
+```bash
+wget https://github.com/msfidelis/sigil/releases/download/v0.0.2/sigil_0.0.2_freebsd_amd64 -O sigil 
+mv sigil /usr/local/bin 
+chmod +x /usr/local/bin/sigil
+```
+
+## Freebsd arm64 
+
+```bash
+wget https://github.com/msfidelis/sigil/releases/download/v0.0.2/sigil_0.0.2_freebsd_arm64 -O sigil 
+mv sigil /usr/local/bin 
+chmod +x /usr/local/bin/sigil
+```
+
+## Windows 
+
+```bash
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+```
+
 ## Usage 
 
 ```
