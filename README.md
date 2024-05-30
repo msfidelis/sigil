@@ -76,3 +76,14 @@ sigil listening --udp
 +-----+-------+----------+----------+
 | 483 | 63720 | sharingd | UDP      |
 ```
+
+
+### Contributing
+
+> Read this horrible code and send the PR 
+
+#### Tests
+
+```
+sudo we don't need tests
+```
