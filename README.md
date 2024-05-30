@@ -1,6 +1,6 @@
 # Sigil, The Command Line of Door's
 
-![Sigil](./github/assets/img/sigil.png)
+![Sigil](.github/assets/img/sigil.png)
 
 > Sigil doesn't matter, and it's not impressive. Actually, it's quite disappointing. It's just a nice wrapper for the lsof command intended to show occupied ports and their respective processes on the operating system.
 
